@@ -1,5 +1,5 @@
-# Data Visualization and Commmunication with Tableau
-### Duke University, Coursera
+## Data Visualization and Commmunication with Tableau
+#### Duke University, Coursera
 
 ![Coursera Certification](https://user-images.githubusercontent.com/105242871/174465685-34c1feda-ae96-457d-a676-45e356890d4e.jpg)
 
