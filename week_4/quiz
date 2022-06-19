@@ -1,0 +1,229 @@
+Question 1
+The hourglass model is a framework for structuring effective business
+presentations. Which of the following is NOT part of the hourglass model?  Choose all that apply.
+
+# Opening your presentation with an agenda
+# A complete description of all the analyses you tried
+
+// Although the hourglass model does mention
+agendas, it does not recommend that you open your presentation with an agenda
+unless that’s what your company culture requires.  Further, it recommends that you only present
+a few key analyses in a logical order, not every analysis that you tried.    
+
+
+----------------------------------------------------------------------------------------------------------
+Question 2
+Beginning your business
+presentation in the middle of the plot of a motivational story can sometimes be
+an effective way to lead into your business recommendation.
+
+# True
+
+// Beginning your business presentation in the
+middle of the plot of a motivational story can create a sense of momentum and expectation for what will come next,
+which can sometimes be an effective way to lead into your business
+recommendation. 
+
+
+----------------------------------------------------------------------------------------------------------
+Question 3
+The storyboarding
+process includes:
+
+# asking for feedback
+# determining the precise order in which the scenes will be organized
+# choosing the best visualizations to communicate the information of each scene
+# narrowing in on the minimum number of scenes necessary to convey your data story
+
+// The storyboarding
+process includes all of these components.
+
+
+----------------------------------------------------------------------------------------------------------
+Question 4
+According to
+the psychology literature, if the business recommendation you are going to make
+in a business presentation is likely to be controversial, you should order the
+stem of your presentation hourglass so that the:
+
+# least controversial point is presented first.
+
+// People are more likely to be persuaded by an argument
+if you get them into a general feeling of agreement first, so starting with
+your least controversial point will get your audience used to saying “yes”
+before you present them with something to which they might want to say “no.”
+
+
+----------------------------------------------------------------------------------------------------------
+Question 5
+As a data analyst, you can avoid the logical fallacy of overgeneralization by:
+
+# none of the above
+
+// None of these items can ensure that the effects you observe will generalize to all other types of data.
+
+
+----------------------------------------------------------------------------------------------------------
+Question 6
+To test whether a certain advertising campaign would work, an analytics team sorts
+their customer list from lowest to highest customer ID number, and then sends
+their advertisement to the first 1000 customers on the list.  The rest of the customers did not receive any
+advertisements that week.  When analyzing
+the results of the campaign one week later, the analytics team realized that there
+was a previously unknown pattern in the customer ID numbers: the lower the
+customer number, the longer the person had been a customer.  Thus,
+the customers who received the advertisement were the individuals who had been
+customers with the company the longest. 
+The analytics team decided the test was invalid and needed to be
+repeated.  The reason for their decision
+was that analyzing the results in their current form would result in the
+following logical fallacy (or fallacies):
+
+# Over-generalization
+
+// Although the team was correct to evaluate the causal power of the advertisement on purchasing
+using a test, the testing group used was systematically different from the control group used (the rest of 
+the customers) in ways other than whether or not they received an advertisement.\
+All of the customers in the testing group would have been customers longer than the customers in the control group,
+so it would have been impossible to differentiate whether any observed differences in purchasing between the two groups were due to the advertisement,
+or due to how long customers had interacted with the company.
+
+
+----------------------------------------------------------------------------------------------------------
+Question 7
+When two variables are correlated, one variable does not cause the other variable.
+
+# False
+
+// Although a correlation between two variables does not mean one variable must cause the other variable,
+it still permits the possibility that one variable causes the other.
+
+
+----------------------------------------------------------------------------------------------------------
+Question 8
+The best way to understand the nature of a relationship between two variables is to run a test.
+
+# True
+
+// The only way to find out if one factor causes another is to use the scientific method and
+run a test or experiment where you change the variable you think is causing the effect you want, and hold all other factors constant.
+Ideally you would start by running the tests in small-scale pilot scenarios where the stakes are lower,
+before you run larger tests or make the recommendation to implement a full-scale change.
+
+
+----------------------------------------------------------------------------------------------------------
+Question 9
+Which charts should you
+NOT use often in business presentations? 
+ Choose all that apply.
+ 
+# Scatter plots
+# 3D charts
+
+// Bar charts and line charts are very effective, and pie charts can be effective when they display small numbers of categories.
+Scatter plots are too complicated for general audiences, and 3D charts tend to be misleading.
+
+
+----------------------------------------------------------------------------------------------------------
+Question 10
+When you want to represent very detailed
+and nuanced information about continuous variables, given humans’ ability to
+perceive relative differences along different kinds of visual attributes, which
+of the following attributes should you exploit in your visualizations?  Choose the best 2 options.
+
+# Length
+# Position
+
+// Humans are best at perceiving difference in position.
+
+
+----------------------------------------------------------------------------------------------------------
+Question 11
+If you are in a situation
+where you MUST use colorbars to represent detailed information about a continuous
+variable, you should:
+
+# use a gray scale that goes from black to white.
+
+// Black to white scales tend to have more even transitions than do color scales,
+so what you perceive as 1 unit of change in color is more likely to represent 1 unit of physical distance
+along a grayscale colorbar than a multi-colored colorbar.
+
+
+----------------------------------------------------------------------------------------------------------
+Question 12
+Visualizations for persuasion should: (Choose all that apply)
+
+# direct your audience’s eyes to the precise points of the data that support your argument.
+# show the visualizations in an order that helps your audience evaluate the options clearly.
+# show selected pieces of data.
+
+// Visualizations for analysis should often show as much data as possible,
+but visualizations for persuasion should filter to show only the data that supports the argument you are making.
+
+
+----------------------------------------------------------------------------------------------------------
+Question 13
+Which of the following
+reflect(s) the principles of maximizing the data-ink ratio?  Choose all that apply.
+
+# Making the borders of bars in a graph the same as the slide background
+# Reducing the amount of text on the slide
+
+// Maximizing the data-ink ratio would lead to simplifying or completely removing non-essential scales and labels,
+and excluding any symbols that indicated how far along you were in a presentation because those symbols would not be related to the data, itself.
+
+
+----------------------------------------------------------------------------------------------------------
+Question 14
+It’s a good idea to apply
+the rule of thirds to: (Choose all that apply)
+
+# Transition slides
+# Slides illustrating stories
+# Soft break slides
+# Slides meant to catch your audience’s attention
+
+// Data slides should display the data in the center of the slide and thus do not follow the rule of thirds.
+
+
+----------------------------------------------------------------------------------------------------------
+Question 15
+Practicing small parts of your
+presentation at a time is an effective technique for creating confidence in
+your ability to present the presentation as a whole.
+
+# True
+
+// This focused practice technique is nice because it breaks things down into bite-sized manageable pieces
+so that you don’t feel so overwhelmed with having to remember everything at once.
+
+
+----------------------------------------------------------------------------------------------------------
+Question 16
+A hospital was having problems with the amount of time
+employees with direct care responsibilities were absent from work. Due to the
+high levels of absenteeism, patient satisfaction
+was declining, 20% of patient-related
+work was not getting done, and 47% of non-patient work was not getting
+done.  At the advice of a consulting
+company, the hospital implemented a positive incentive system that would allow
+all employees to convert up to 24 hours of unused sick time into additional pay or more vacation days in
+order to reduce absenteeism.  After 6
+months of implementing the program, the hospital analysts calculated that
+absentee rates declined an average of 11.5 hours per employee, and concluded that
+the program was successful in this company. 
+Did the hospital analysts commit any logical fallacies when arriving at
+their conclusion, and if so, which fallacy (or fallacies)?
+
+# Lack of controls
+
+// Without a control
+group who was not entered into the positive incentive system, it is impossible
+to know whether the decrease in absenteeism was due to the change in policy or
+due to other collections of unmeasured factors in the environment (like lower
+overall sickness due to seasonal changes, for example).  The fallacy of overgeneralization was NOT committed because the analysts
+concluded that the program worked in this company, and did not make claims
+about whether or not the program would work in other places.  The fallacy of inferring causation from
+correlation was NOT committed by the hospital analysts either, because they
+never made an explicit claim about causation.   
