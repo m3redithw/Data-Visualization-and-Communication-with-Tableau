@@ -2,44 +2,44 @@ Question 1
 True/False: As documented in the study: “The State of Business Intelligence and Business Analytics in Academia 2012,” recruiters from technical companies collectively rank SQL skills as the coursework/knowledge they look for most when recruiting for business intelligence/business analyst roles.
 # False
 
-
+----------------------------------------------------------------------------------------------------------
 Question 2
 True/False: Everybody in the analytics world agrees that your job as a data analyst is to ask and answer the one, true, right question.
 # False
 
-
+----------------------------------------------------------------------------------------------------------
 Question 3
 In this course, we used the S.M.A.R.T acronym to refer to goals that are:
 # Specific, Measureable, Attainable, Relevant, and Time-bound
 
-
+----------------------------------------------------------------------------------------------------------
 Question 4
 Which of the following steps of the analytics project life cycle should you complete first?
 # Defining a SMART goal
 
-
+----------------------------------------------------------------------------------------------------------
 Question 5
 True/False: Including the business metric that you will use to assess success in your business analytics project will make your project goal sufficiently specific to ensure success.
 # False
 
-
+----------------------------------------------------------------------------------------------------------
 Question 6
 Which of the SMART criteria are NOT met by this data analytics project goal (pay close attention to whether the options are words the SMART acronym stands for)?
 
 The goal of this project is to, within 45 days, use the inventory, production, and customer service databases from national manufacturing plants to reduce the number of polo shirts returned for manufacturing defects. 
 # Specific
 
-
+----------------------------------------------------------------------------------------------------------
 Question 7
 True/False: Stakeholders are those individuals who are influenced by the outcome of your project or who might have a strong interest in it.
 # True
 
-
+----------------------------------------------------------------------------------------------------------
 Question 8
 True/False: “Elicitation” refers to the process of writing a document that lists all the requirements and objectives of a data analysis project.
 # False
 
-
+----------------------------------------------------------------------------------------------------------
 Question 9
 You are an analyst at a bank.  Your bank ran a short-term experiment in which they provided credit cards to a wider range of applicants then normal, including applicants whose applications would typically be rejected due to their troubled financial profiles. Your job is to model the data from this experiment to create a decision-making algorithm that will help the bank decide how to respond to future credit card applications more profitably.
 
@@ -47,33 +47,33 @@ The following parties are NOT likely to be key stakeholder(s) in your project (s
 # Individuals who applied for credit cards in the past, but were denied
 # Individuals who will apply for credit cards in the future.
 
-
+----------------------------------------------------------------------------------------------------------
 Question 10
 At the beginning of any data analysis project, you should meet with your key stakeholders to understand:
 # all of the above.
 
-
+----------------------------------------------------------------------------------------------------------
 Question 11
 According to Doug Laney, VP of Information Innovation and Strategy at Gartner, why don’t more companies move higher on the analytics continuum?  (check all that apply)
 # Inertia (comfort with the way businesses did things in the past)
 # Decision-makers view analytic analyses as “black boxes” they don’t understand
 
-
+----------------------------------------------------------------------------------------------------------
 Question 12
 True/False: When you are designing your business analysis plan, you should treat your business metric as the independent variable in your data analysis.
 # False
 
-
+----------------------------------------------------------------------------------------------------------
 Question 13
 SPAPs should be altered after you begin a data analysis.
 # True
 
-
+----------------------------------------------------------------------------------------------------------
 Question 14
 How many layers should there be in the “independent variables” section of your pyramid? 
 # As many layers and sub-layers as needed to cover all the issues you want to be sure you document or address
 
-
+----------------------------------------------------------------------------------------------------------
 Question 15
 The best charts for assessing the categories and subcategories listed in the intermediate layers of your SPAP include (select all that apply):
 # Bar charts
