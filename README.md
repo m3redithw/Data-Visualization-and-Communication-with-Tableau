@@ -14,10 +14,15 @@
 
 [Week 2 Quiz](week_2/quiz2)
 
+[Salary data](week_2/salary_data.xlsx)
+
 ***
 ## Week 3
 [Week 3 Quiz](week_3/quiz3)
 
+[States corrected salary dataset](week_3/salary_data_states_corrected.xlsx)
+
+[Price parity dataset](week_3/price_parity.xlsx)
 ***
 ## Week 4
 [Week 4 Quiz](week_4/quiz4)
