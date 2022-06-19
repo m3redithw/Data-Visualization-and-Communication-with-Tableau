@@ -1,0 +1,97 @@
+Question 1
+Use the dognition_data_no_aggregation data set provided in this course for this quiz.
+
+In the dognition_data_no_aggregation data set, the greatest drop offs of test-takers occur after a subcategory of tests is completed rather than while the subcategories of tests are still in progress.
+
+# True
+
+// This is easiest to see if you color-code your graph for “Subcategory Name.”  How might Dognition take advantage of this?
+
+
+Question 2
+In the dognition_data_no_aggregation data set, after which game is the drop-off of completed tests the greatest?
+
+# Eye Contact Game
+
+// The greatest drop off in users seems to be after the Eye Contact Game, which is the last game in the Empathy subcategory (the first subcategory presented for most customers).  The second greatest drop-off is after the Physical Reasoning Game, which is the last game in the Reasoning subcategory (the last subcategory of the 20-test Dognition Assessment for most customers).  What can Dognition learn from this?  When thinking about your answer, make sure to consider what Eliot told us in the “Meet Your Dognition Data” video about the tests Dognition has tried already.
+
+
+Question 3
+If you remove all the entries associated with Shih Tzu dogs that weigh 190 pounds from the dognition_data_no_aggregation data set, how many different sequences of tests were administered to customers in the data that are left?
+
+# at least 4
+
+// Although most customers were clearly given the Dognition tests in the same order, the fact that some of the bars in the bar graph I suggested you make in Practice Exercise 1 have at least 4 colors in them when you put “Test Name” on the color property indicates that small numbers of customers were either given the Dognition tests in a different order, or somehow managed to take tests before they were supposed to.  This is worth keeping in mind when you are interpreting results of future analyses.
+Can you think of a way to use Tableau to look at only the records of animals who took the tests in a specific order?
+
+
+Question 4
+During which day of the week do customers play Dognition games the most?
+
+# Sunday
+
+// Great! What might this mean about when you would want to target advertisements or “nudge” notifications to customers?
+
+
+Question 5
+During which month in the data set were the most tests completed?
+
+# October 2014
+
+// It turns out that Dognition was featured on the well-known American news program “60 Minutes” that month (http://www.cbsnews.com/videos/the-smartest-dog-in-the-world/).  It seems that publicity does work sometimes!
+
+
+Question 6
+After adjusting the time stamps of the tests completed by United States users provided in the “Created At” field of the dognition_data_no_aggregation data set for time zone differences, during which hour of the day do Dognition customers play the most amount of games?\
+
+# 7 PM
+
+// This seems to be the case for every day of the week except for Saturday, when customers play more often in the afternoon.  How can you use this information to Dognition’s advantage?
+
+
+Question 7
+In the dognition_data_no_aggregation data set, approximately what percentage of users who begin taking the Dognition Assessment complete 20 tests?
+
+# 23%
+
+// In this data set, a little less than a quarter of all users who begin taking the Dognition Assessment finish it.
+
+
+Question 8
+In the dognition_data_no_aggregation data set, what percentage of users who begin taking the Dognition Assessment using a “Free Start” promotion complete 20 tests?
+
+# 6%
+
+// In this data set, a little less than 6% of all users who begin taking the Dognition Assessment with a “Free Start” finish it.  How does that influence your assessment of whether “Free Starts” are beneficial to Dognition’s business goals?
+
+
+Question 9
+Using the dognition_data_no_aggregation data set, if you make a table using the “Dog ID” and “Test Name” variables on the rows shelf, and Created At on the Text property of the Marks card, which of the following might be a value you would see in the column farthest to the right, if the “Created At” pill was blue and read SECOND(Created At)?
+
+# 0
+
+// Since the pill is blue, Tableau is treating the date as a dimension.  That means time stamps will be treated as discrete “date parts” rather than entire date expressions.  In this data set we don’t have any data at the resolution of seconds, so the second-level “date part” will always be 0.  This means that if you wanted to rank items by their true time stamp, you would need to treat your time stamp variable as a measure so that Tableau could rank the entire time expression as a whole rather than just the individual date parts.
+
+
+Question 10
+If you were writing a calculation to rank each test a dog completed by its time stamp in the dognition_data_no_aggregation data set, what would be missing from the following version of your rank table calculation:  RANK(([Created At]),'asc')
+
+# an aggregation before [Created At], the most appropriate of which is ATTR
+
+// All table calculations require aggregation expressions so that the granularity of what is currently in the work space can be accommodated.  ATTR will provide the label or value of “Created At,” as long as it is placed before “Created At” in the calculated expression, “Created At” is placed in parentheses and brackets, and there is only one value of “Created At.”
+
+
+Question 11
+You are writing a calculation to rank each test a dog completed by its time stamp in the dognition_data_no_aggregation data set.  You’ve configured your table calculation so that “Dog ID” and “Test Name” are in the Partitioning field and “Second Created” is in the Addressing field.  The resulting rank will:
+
+# List “1” for the first test of every Dog ID
+
+// “Test Name” would have to go above “Second Created” in the Addressing field to get the ranking you want.
+
+
+Question 12
+You are writing a calculation to include a column in a table that ranks each test a human user completed by its time stamp in the dognition_data_no_aggregation data set.  You put this column directly to the left of the column you made to rank each test a dog completed by its time stamp. The following field(s) will go in the Partitioning field in the calculation configuration page in your new calculation meant to rank each test a human user completed: (check all that apply)
+
+# User ID
+
+// You want the ranking calculation to occur within each User ID, so User ID should go in the Partitioning field.
